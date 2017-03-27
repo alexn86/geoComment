@@ -1,4 +1,4 @@
-## LoftSchool JS project №2 - Geo Comments
+## LoftSchool JS project №2 - GEO comment / GEO отзыв
 
 ### Доступные команды
 
