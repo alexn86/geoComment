@@ -23,8 +23,8 @@ loaders.push({
 module.exports = {
     entry: './src/js/index.js',
     output: {
-        filename: '[hash].js',
-        path: './dist'
+        filename: 'bundle.js',
+        path: __dirname + '/dist',
     },
     devtool: 'source-map',
     module: {
